@@ -1,7 +1,13 @@
 # Zelda3
-A reimplementation of Zelda 3.
+A reimplementation of Zelda 3 for Dreamcast. Ported Files go in src/platform/Dreamcast
 
-Our discord server is: https://discord.gg/AJJbJAzNNJ
+
+
+
+
+
+
+ORIGINAL_README_FROM_ZELDA3_REPO
 
 ## About
 
